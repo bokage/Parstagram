@@ -1,4 +1,4 @@
-# Parstagram - Part II
+# Parstagram 
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
@@ -20,7 +20,8 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
+### Commenting and liking:
 <img src='http://g.recordit.co/lcmp0G6SNW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
+### Posting:
 <img src='http://g.recordit.co/94cZVLDOCP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
