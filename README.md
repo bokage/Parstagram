@@ -1,6 +1,6 @@
 # Parstagram 
 
-Instagram clone with a custom Parse backend that allows a user to post photos, view a global photo feed, and add comments!
+*Instagram clone with a custom Parse backend that allows a user to post photos, view a global photo feed, and add comments!*
 
 
 ## Features
