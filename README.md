@@ -3,7 +3,7 @@
 Instagram clone with a custom Parse backend that allows a user to post photos, view a global photo feed, and add comments!
 
 
-## Features:
+## Features
 
 - Sign up, login, and logout capabilities added.
 - User stays logged in across restarts. 
