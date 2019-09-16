@@ -17,7 +17,7 @@
 ## Video Walkthrough
 
 ### Commenting and liking:
-<img src='http://g.recordit.co/lcmp0G6SNW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="100"/>
+<img src='http://g.recordit.co/lcmp0G6SNW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="400"/>
 
 ### Posting:
-<img src='http://g.recordit.co/94cZVLDOCP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="100"/>
+<img src='http://g.recordit.co/94cZVLDOCP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="400"/>
