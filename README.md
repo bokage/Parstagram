@@ -16,7 +16,7 @@
 
 ## Video Walkthrough
 Here's a walkthrough of implemented features:
-### Posting:
+### Logging in and Posting:
 <img src='http://g.recordit.co/94cZVLDOCP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="500"/>
 
 ### Commenting:
