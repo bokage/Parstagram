@@ -17,8 +17,8 @@
 ## Video Walkthrough
 Here's a walkthrough of implemented features:
 ### Logging in and Posting:
-<img src='http://g.recordit.co/94cZVLDOCP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="500"/>
+<img src='./demo/login_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="500"/>
 
 ### Commenting:
-<img src='http://g.recordit.co/lcmp0G6SNW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="500"/>
+<img src='./demo/comment_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="500"/>
 
